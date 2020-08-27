@@ -1,0 +1,19 @@
+{
+    "name": "tuhin/send-mail",
+    "description": "This package willl help you to send email to user and save it to db to future use",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tuhin Khan",
+            "email": "tuhin@bdeducation.org.bd"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tuhin\\SendMail\\": "src/"
+        }
+    },
+}
